@@ -1,8 +1,8 @@
 # Temporal Foundation Models
 
-Early experiments and notes around pretraining models for temporal data.
+Small utilities and notes around pretraining ideas for temporal data.
 
-This repo is for exploring the design space before committing to a full model: masking strategies, context length, channel mixing, sampling-rate mismatch, and transfer evaluation.
+This is not a released foundation model. It is a scratchpad for making the design space concrete: masking strategies, context length, channel mixing, sampling-rate mismatch, and transfer evaluation.
 
 ## Questions
 
@@ -22,4 +22,3 @@ docs/design_notes.md      research design notes
 ## Current Position
 
 Small, controlled experiments before large-scale claims.
-
