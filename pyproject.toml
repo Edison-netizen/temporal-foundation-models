@@ -1,0 +1,9 @@
+[project]
+name = "temporal-foundation-models"
+version = "0.1.0"
+description = "Sketches for masked temporal modeling and representation learning."
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+
